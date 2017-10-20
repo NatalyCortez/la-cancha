@@ -13,4 +13,4 @@ b.html
 
 Vista previa:
 ----
-![pagecancha]()
+![pagecancha](https://raw.githubusercontent.com/NatalyCortez/la-cancha/master/assents/img/Captura.JPG)
