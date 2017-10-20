@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  }
+  div {
+
+    padding: 10px;
+  }
+  .box1 {
+  background-color: #aed19c;
+  height: 500px;
+  width: 1344px;
+  position: absolute;
+}
+.box2{
+  background-color: #aed19c;
+  height: 460px;
+  width: 1315px;
+  position: relative;
+  border: 3px solid white;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+}
+.circle {
+  width: 190px;
+     height: 190px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #aed19c;
+     position: relative;
+     border: 3px solid white;
+     left: 550px;
+     bottom: 325px;
+
+}
+.arco1 {
+     width: 190px;
+     height: 200px;
+     border: 3px solid #white;
+     background: #aed19c;
+     position: relative;
+     bottom: 525px;
+     left: 15px;
+     border: 3px solid white;
+}
+.arco2 {
+     width: 190px;
+     height: 200px;
+     border: 3px solid #white;
+     background: #aed19c;
+     position: relative;
+     bottom: 725px;
+     left: 1140px;
+     border: 3px solid white;
+}
+.ball1 {
+  width: 20px;
+  height: 20px;
+  background: white;
+  position: relative;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  bottom: 922px;
+  left: 186px;
+  border: 1px solid #c4bebe;
+}
+.ball2 {
+  width: 20px;
+  height: 20px;
+  background: white;
+  position: relative;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  bottom: 1000px;
+  left: 650px;
+  border: 1px solid #c4bebe;
+}
+.ball3 {
+  width: 20px;
+  height: 20px;
+  background: white;
+  position: relative;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  bottom: 800px;
+  left: 1114px;
+  border: 1px solid #c4bebe;
+}
