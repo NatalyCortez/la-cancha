@@ -6,7 +6,7 @@ Objetivo:
 -----
 Practicar y retener lo aprendido de los temas :*positioning* y *Box Model*.
 
-Hermmaientas utilizadas:
+Herramientas utilizadas:
 -----
 a.css
 b.html
