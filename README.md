@@ -1,6 +1,6 @@
 La Cancha
 -----
-Con la teoría expuesta en clase,aprenderemos a usar nuetsros conocimientos de *positioning*.
+Con la teoría expuesta en clase,aprenderemos a usar nuestros conocimientos de *positioning*.
 
 Objetivo:
 -----
